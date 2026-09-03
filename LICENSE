@@ -1,0 +1,17 @@
+L-System (Lsystempop)
+
+Copyright (c) 2026 Edwin Lucchesi. All rights reserved.
+
+This operator is proprietary freeware. Source is not included. This plugin has no third-party engines or libraries; the implementation is original work by the author.
+
+You may install and use the compiled plugin in personal, artistic, and commercial TouchDesigner projects.
+
+You may not sell, sublicense, or redistribute the plugin as a product, or as part of a product whose value is the plugin itself. You may not present it as your own work, rebrand it, or remove the copyright notice. You may give a copy only to people who need it to open a project that already uses this operator. You may not reverse engineer, unpack, or decompile the binary except as granted by the author or required by law.
+
+This software is an independent Custom Operator. It is not affiliated with, sponsored by, endorsed by, or an official product of Derivative Inc. It is not a replacement, substitute, or official port of Derivative's L-System SOP, or of any other Derivative operator. Similarity of turtle syntax or typical results does not make this plugin a Derivative product.
+
+TouchDesigner is a product of Derivative Inc. Use of TouchDesigner is governed solely by Derivative's terms. C++ API headers are used at compile time and are not redistributed in this installer.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Dated: 2 September 2026.
